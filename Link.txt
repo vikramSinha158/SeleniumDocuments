@@ -1,0 +1,165 @@
+REST-assured by karthik - https://www.youtube.com/watch?v=TeAU1n9UspI&list=PL6tu16kXT9PpgqfMbMdzUzDenYgb0gbk0
+
+reshsharp frame work
+https://www.youtube.com/watch?v=mPfFcdCIboA&list=PL3bDSIsAow1EGBJuVQzANem75M7_WpS-J&index=6
+
+specflow by karthik
+https://www.youtube.com/watch?v=tfq9FlkyaUM&list=PL6tu16kXT9Pp3wrsaYyNRnK1QkvVv6qdI&index=1
+
+rest assured framework
+https://www.youtube.com/watch?v=AbJrfP4ziIk&list=PLEiBaBxmVLi-hoi61aX-2agQb8EXSCT5f
+
+rest assured by mukesh
+https://www.youtube.com/watch?v=aqrxDxumKZQ&list=PL6flErFppaj08LFolWioWyjfSGtCWcvVp
+
+https://www.youtube.com/watch?v=YXPh47HtaW8&list=PLapEMQVBLweBf59ihjrKDA1jh7nrIUdy8
+
+
+link for code sample
+https://www.csharpcodi.com/csharp-examples/RestSharp.RestRequest.AddParameter(RestSharp.Parameter)/
+
+https://csharp.hotexamples.com/examples/RestSharp/RestRequest/AddParameter/php-restrequest-addparameter-method-examples.html#0xebca32c1ab287dead10c78ab8690556ced0e496c9d240137ba9d9d4f065858a5-44,,76,
+https://social.msdn.microsoft.com/Forums/en-US/525ff8f2-13f5-4602-bce3-78b909cadedb/how-to-read-and-write-a-json-file-in-c?forum=csharpgeneral
+
+
+How to post JSON data to API using restsharp C#
+https://www.youtube.com/watch?v=YXPh47HtaW8&list=PLapEMQVBLweBf59ihjrKDA1jh7nrIUdy8
+
+https://bitbucket.org/r1rcm/test-automation-pas/src/master/R1.PAS.Automation/  --Pas
+https://bitbucket.org/r1rcm/r1-automation-testrepo-core/src/master/src/  --Extent reporting
+
+https://bitbucket.org/r1rcm/pas-api-automation/src/master/ -- pas api automation
+
+
+
+https://www.youtube.com/watch?v=ilLsT12e01A  -- page initialzation in abstract class
+
+https://www.youtube.com/watch?v=lk0EYGn9Ano  -------Core
+
+https://www.udemy.com/course/framework-development-with-selenium-csharp-advanced/ ==udemy fromawork for selenoum
+
+
+https://www.youtube.com/watch?v=mluLgBywW0Y&list=PL6tu16kXT9PqKSouJUV6sRVgmcKs-VCqo -- selenium course
+
+
+
+Automation Framework Design and Development by karthik
+
+https://www.youtube.com/watch?v=oSG-r7h0eLE&list=PL6tu16kXT9Prgk2f37ozqcdZac9pSATf6
+
+
+
+https://www.youtube.com/watch?v=HZOII16W0oY&list=PL6tu16kXT9PqIe2b0BGul-cXbmwGt7Ihw  -----Jenkins by karthik
+
+https://www.youtube.com/watch?v=ypB_cS0cCPo ===Jenkins 
+
+
+https://bitbucket.org/r1rcm/r1-automation-api-core/src/master/   ==== API framework
+
+https://bitbucket.org/r1rcm/r1-automation-database-core/src/master/ -- database
+
+https://bitbucket.org/r1rcm/r1-automation-ui-core/src/master/  ---UI core
+
+https://bitbucket.org/r1rcm/r1-contact-automation/src/master/ ---r1 contact
+
+
+Lazy Initialization in C# for deferred object initialization in Selenium and Appium framework
+https://www.youtube.com/watch?v=DBef1NcPRmc&list=PL6tu16kXT9PqKSouJUV6sRVgmcKs-VCqo&index=22
+
+
+https://stackoverflow.com/questions/43284881/jenkins-integration-for-dotnet-test = jenkins test
+
+https://www.google.co.in/search?biw=1366&bih=608&q=jenkins+xunit+dotnet+test&sa=X&ved=2ahUKEwi_pOrvsJrqAhVBEawKHVz3AJoQ1QIoAXoECA0QAg   ----xunit test run in jenkins
+
+
+https://dzone.com/articles/headless-execution-of-selenium-tests-in-jenkins - Why automation run as headleaa on Jenkins.
+
+
+https://www.qaautomation.co.in/2018/09/extent-report-setup-in-jenkins.html#:~:text=2)%20Now%20go%20to%20Jenkins,visible%20in%20Your%20Jenkins%20Dashboard.  -    Jenkins Report publish
+
+
+Selenoum ci/CD  == https://www.youtube.com/watch?v=8-TUqYYXF_8&list=PL5fOKT7XR42Po4zh8nHCozrcsMboLNXjF
+
+
+https://nuget.accretivehealth.local/Nuget/api/v2
+
+
+
+LINQ and its awesomeness with SelectMany for Selenium automation
+https://www.youtube.com/watch?v=ToJNFue1Srg
+
+
+
+Cucumber Framework || BDD
+https://www.youtube.com/watch?v=V5nRTozThiU&list=PLlsKgYi2Lw73j-yB8SBzrUBpMYL1Jr3M7
+https://www.youtube.com/watch?v=4e9vhX7ZuCw&list=PLhW3qG5bs-L_mFHirOLEYJ7X2rIXu8SR2 ----By raghav
+https://www.youtube.com/watch?v=vHzMJuc9Zuk&list=PLFGoYjJG_fqoBFPevCDZDCufDX5h-o3yO -- Naveen
+
+https://www.youtube.com/watch?v=aFlAXLSHbCg&list=PLUDwpEzHYYLuOleK8iPl6kc2UbXGvllBY&index=1 ---QA Automation Techie
+
+https://www.youtube.com/watch?v=tovz1q5Unxs  ---Extent report QA Automation Techie
+Continuous Integration with Maven, Jenkins,Git & GitHub 
+https://www.youtube.com/watch?v=F8Nfjwneeb4&list=PLUDwpEzHYYLuKBJ_3RtrVzmWCus9JFXXw  ---QA Automation Techie
+
+https://www.youtube.com/watch?v=PLLbGltmkpE&list=PLUDwpEzHYYLs6G9WOfFxiH5zMfgNxgmSV  --compleet selenium QA Automation Techie
+
+Cucumber Framework || BDD by karthik
+https://www.youtube.com/watch?v=TUX7ntXlVkc&list=PL6tu16kXT9PpteusHGISu_lHcV6MbBtA6
+https://www.youtube.com/watch?v=WBk1tLjph-0&list=PL6tu16kXT9Pqr70SZlwcmTSAfOw_0Qj3R
+
+
+
+
+https://www.youtube.com/watch?v=7cFwCXY2DSg
+
+Hybrid Framework Part-2 | e-Banking Automation Mini Project
+https://www.youtube.com/watch?v=EbENbe8mmGM     ====Non selenium
+
+udemy java selenium karthik
+https://www.udemy.com/course/automation-framework-with-selenium/
+
+alf b  -stepdefinition
+ctr insert == constructor
+
+
+
+Java question
+https://www.udemy.com/course/qa-automation-interview-questions/
+
+Java MultiThreading With Automation Framework(Selenium)
+https://www.youtube.com/watch?v=7TnjUL4awY0
+
+
+
+
+Selenium Framework for Beginners 34 | How to add project to GitHUB
+https://www.youtube.com/watch?v=s5FAv4jPpDA&list=PLhW3qG5bs-L8oRay6qeS70vJYZ3SBQnFa&index=36
+https://www.youtube.com/watch?v=-U-eUHI6euM&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG
+https://www.youtube.com/watch?v=nHk53YnrE5k == Quik view in git
+
+
+Selenium Grid set up in Docker Step by Step | Parallel testing using Docker
+https://www.youtube.com/watch?v=phJoABOXmqM
+
+Parallel Testing in Selenium WebDriver using THREAD LOCAL and TestNG
+https://www.youtube.com/watch?v=Ov08vT8UTqY
+
+
+
+ SDET/Test Architect Essentials -Road to Full stack QA
+https://www.udemy.com/course/sdettraining-testarchitect-fullstackqa/
+
+Top 25 API Testing Interview Questions & Answers | Rahul Shetty
+https://www.youtube.com/watch?v=8cyMZ87J7zo
+
+
+
+
+
+
+
+
+
+
+
+
